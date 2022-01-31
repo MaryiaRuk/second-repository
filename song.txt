@@ -7,12 +7,3 @@ In fact here's just another ordinary day
 No April rain
 No flowers bloom
 
-new commit
-must add
-<<<<<<< HEAD
-****************
-11111111111111111
-Это совсем ненужная вещь
-=======
-----------------------------------------------------
->>>>>>> f16b2e82e349897a11c81665de4ab5a53bfd2355
